@@ -1,0 +1,23 @@
+{
+  "name": "readme_template",
+  "version": "1.0.0",
+  "description": "my readme template",
+  "main": "index.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naddiya/README_template.git"
+  },
+  "keywords": [
+    "template",
+    "readme"
+  ],
+  "author": "nadia m",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Naddiya/README_template/issues"
+  },
+  "homepage": "https://github.com/Naddiya/README_template#readme"
+}
