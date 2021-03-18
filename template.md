@@ -36,7 +36,7 @@ cd <project>
 - <a href="https://choosealicense.com/licenses/mit/"> choosealicense.com </a>
 - [Shields IO](https://shields.io)
 - [gitmoji](https://gitmoji.dev/) 
-
+- [complete emoji's list by rxaviers](https://gist.github.com/rxaviers/7360908)
 
 
 
