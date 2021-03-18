@@ -34,8 +34,9 @@ cd <project>
 
 - <a href="https://www.markdownguide.org/cheat-sheet/"> Markdown Cheat Sheet
 - <a href="https://choosealicense.com/licenses/mit/"> choosealicense.com </a>
-- <a href="https://shields.io/"> Shields IO </a>
-- <a href="https://gitmoji.dev/"> gitmoji </a>
+- [Shields IO](https://shields.io)
+- [gitmoji](https://gitmoji.dev/) 
+
 
 
 
