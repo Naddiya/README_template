@@ -1,8 +1,10 @@
 {
   "name": "readme_template",
   "version": "1.0.0",
+  "license": "MIT",
+  "author": "nadia m",
   "description": "my readme template",
-  "main": "index.md",
+  "main": "template.md",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,10 +16,12 @@
     "template",
     "readme"
   ],
-  "author": "nadia m",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Naddiya/README_template/issues"
   },
-  "homepage": "https://github.com/Naddiya/README_template#readme"
+  "homepage": "https://github.com/Naddiya/README_template#readme",
+  "schemaVersion": 1,
+  "label": "hello",
+  "message": "sweet world",
+  "color": "orange"
 }
